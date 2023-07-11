@@ -91,7 +91,15 @@ body {
         flex-direction: column;
         text-align: center;
     }
+    .price-tag{
+        justify-content: center;
 
+    }
+    .price-tag img{
+        margin: 0 !important;
+        margin-right: 5px !important;
+
+    }
 }
 
 @media (min-width: 769px) and (max-width: 1200px) {
